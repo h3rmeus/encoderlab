@@ -4,18 +4,6 @@
 
 ---
 
-## Алгоритмы
-
-| Категория | Алгоритмы |
-|---|---|
-| Кодировки символов | UTF-8 Hex, UTF-16 Hex, UTF-32 Hex, ASCII Hex, CP1251 Hex |
-| Base-кодирование | Base64, Base64 URL, Base32, Base16 (HEX) |
-| Числовые представления | Binary, Octal, Unicode Escape |
-| Веб-кодирование | URL Encoding, HTML Entities |
-| Классические шифры | ROT13, Morse, Caesar (shift 13), Atbash |
-
----
-
 ## Требования
 
 - Python **3.8** и выше
