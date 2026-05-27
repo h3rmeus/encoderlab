@@ -65,7 +65,7 @@ python encoder_cli.py
 
 ```
 encoderlab/
-├── encoder_engine.py   # Ядро — все 18 алгоритмов
+├── encoder_engine.py   
 ├── encoder_gui.py      # Графический интерфейс (tkinter)
 ├── encoder_cli.py      # Интерфейс командной строки
 └── README.md
